@@ -1,7 +1,7 @@
 # IFC Web Viewer
 
 ## Overview
-This project is a web-based IFC file viewer built with Three.js and an open-source framework. It allows users to visualize and interact with IFC models directly in the browser without requiring additional software.
+This project is a web-based IFC file viewer built with Three.js and That Open Company framework. It allows users to visualize and interact with IFC models directly in the browser without requiring additional software.
 
 ## Features
 - **IFC File Rendering**: Load and display IFC models with Three.js.
